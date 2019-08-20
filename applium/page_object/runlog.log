@@ -1,0 +1,66 @@
+2019-08-17 16:02:57,897 desired_caps.py[line:31] INFO start run app...
+2019-08-17 17:21:41,232 desired_caps.py[line:31] INFO start run app...
+2019-08-17 17:26:05,294 desired_caps.py[line:31] INFO start run app...
+2019-08-17 17:30:17,967 desired_caps.py[line:31] INFO start run app...
+2019-08-17 17:31:10,652 common_fun.py[line:13] INFO ============check_cancelBtn===============
+2019-08-17 17:31:10,821 common_fun.py[line:20] INFO click cancelBtn
+2019-08-17 17:31:11,157 common_fun.py[line:24] INFO ==========check_skipBtn===========
+2019-08-17 17:31:11,818 common_fun.py[line:30] INFO click skipBtn
+2019-08-17 17:44:48,591 desired_caps.py[line:31] INFO start run app...
+2019-08-17 17:45:44,394 common_fun.py[line:13] INFO ============check_cancelBtn===============
+2019-08-17 17:45:44,989 common_fun.py[line:20] INFO click cancelBtn
+2019-08-17 17:45:45,041 common_fun.py[line:24] INFO ==========check_skipBtn===========
+2019-08-17 17:45:46,203 common_fun.py[line:30] INFO click skipBtn
+2019-08-17 17:45:46,250 loginView.py[line:17] INFO ===============login===============
+2019-08-17 17:45:46,250 loginView.py[line:18] INFO input username:自学网2018
+2019-08-17 17:45:48,772 loginView.py[line:21] INFO input password:zxw2018
+2019-08-17 17:45:50,001 loginView.py[line:24] INFO click loginBtn.
+2019-08-17 17:45:50,665 loginView.py[line:26] INFO login finished 
+2019-08-17 17:49:02,211 desired_caps.py[line:31] INFO start run app...
+2019-08-17 17:49:51,694 desired_caps.py[line:31] INFO start run app...
+2019-08-17 17:50:55,761 common_fun.py[line:13] INFO ============check_cancelBtn===============
+2019-08-17 17:50:56,452 common_fun.py[line:20] INFO click cancelBtn
+2019-08-17 17:50:56,530 common_fun.py[line:24] INFO ==========check_skipBtn===========
+2019-08-17 17:50:57,017 common_fun.py[line:30] INFO click skipBtn
+2019-08-17 17:50:57,572 loginView.py[line:16] INFO ===============login===============
+2019-08-17 17:50:57,573 loginView.py[line:17] INFO input username:自学网2018
+2019-08-17 17:54:07,022 desired_caps.py[line:31] INFO start run app...
+2019-08-17 17:55:04,792 common_fun.py[line:13] INFO ============check_cancelBtn===============
+2019-08-17 17:55:04,904 common_fun.py[line:20] INFO click cancelBtn
+2019-08-17 17:55:05,012 common_fun.py[line:24] INFO ==========check_skipBtn===========
+2019-08-17 17:55:05,524 common_fun.py[line:30] INFO click skipBtn
+2019-08-17 17:55:06,094 loginView.py[line:16] INFO ===============login===============
+2019-08-17 17:55:06,094 loginView.py[line:17] INFO input username:自学网2018
+2019-08-17 17:55:08,350 loginView.py[line:20] INFO input password:zxw2018
+2019-08-17 17:55:09,575 loginView.py[line:23] INFO click loginBtn.
+2019-08-17 17:55:10,843 loginView.py[line:25] INFO login finished 
+2019-08-17 17:56:54,485 desired_caps.py[line:31] INFO start run app...
+2019-08-17 17:57:44,340 common_fun.py[line:13] INFO ============check_cancelBtn===============
+2019-08-17 17:57:45,363 common_fun.py[line:20] INFO click cancelBtn
+2019-08-17 17:57:45,448 common_fun.py[line:24] INFO ==========check_skipBtn===========
+2019-08-17 17:57:46,376 common_fun.py[line:30] INFO click skipBtn
+2019-08-17 17:57:46,418 loginView.py[line:16] INFO ===============login===============
+2019-08-17 17:57:46,418 loginView.py[line:17] INFO input username:自学网2018
+2019-08-17 17:57:48,404 loginView.py[line:20] INFO input password:zxw2018
+2019-08-17 17:57:49,632 loginView.py[line:23] INFO click loginBtn.
+2019-08-17 17:57:50,286 loginView.py[line:25] INFO login finished 
+2019-08-17 18:34:19,497 desired_caps.py[line:31] INFO start run app...
+2019-08-17 18:35:22,878 common_fun.py[line:13] INFO ============check_cancelBtn===============
+2019-08-17 18:35:23,578 common_fun.py[line:20] INFO click cancelBtn
+2019-08-17 18:35:24,047 common_fun.py[line:24] INFO ==========check_skipBtn===========
+2019-08-17 18:35:25,292 common_fun.py[line:30] INFO click skipBtn
+2019-08-17 18:35:25,358 loginView.py[line:17] INFO ===============login===============
+2019-08-17 18:35:25,358 loginView.py[line:18] INFO input username:自学网2018
+2019-08-17 18:35:27,818 loginView.py[line:21] INFO input password:zxw2018
+2019-08-17 18:35:29,027 loginView.py[line:24] INFO click loginBtn.
+2019-08-17 18:35:29,637 loginView.py[line:26] INFO login finished 
+2019-08-17 18:53:23,641 desired_caps.py[line:31] INFO start run app...
+2019-08-17 18:54:25,338 common_fun.py[line:13] INFO ============check_cancelBtn===============
+2019-08-17 18:54:26,119 common_fun.py[line:20] INFO click cancelBtn
+2019-08-17 18:54:26,243 common_fun.py[line:24] INFO ==========check_skipBtn===========
+2019-08-17 18:54:26,756 common_fun.py[line:30] INFO click skipBtn
+2019-08-17 18:54:27,324 loginView.py[line:17] INFO ===============login===============
+2019-08-17 18:54:27,325 loginView.py[line:18] INFO input username:自学网2018
+2019-08-17 18:54:30,044 loginView.py[line:21] INFO input password:zxw2018
+2019-08-17 18:54:31,218 loginView.py[line:24] INFO click loginBtn.
+2019-08-17 18:54:31,852 loginView.py[line:26] INFO login finished 

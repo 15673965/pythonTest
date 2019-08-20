@@ -1,0 +1,16 @@
+2019-08-17 12:03:41,243 logging_test.py[line:8] INFO hello 51zxw £¡
+2019-08-17 12:03:41,243 logging_test.py[line:9] WARNING warning info
+2019-08-17 12:03:41,243 logging_test.py[line:10] ERROR error info
+2019-08-17 12:03:41,243 logging_test.py[line:11] CRITICAL critical info
+2019-08-17 12:05:43,154 logging_test.py[line:8] INFO hello 51zxw £¡
+2019-08-17 12:05:43,154 logging_test.py[line:9] WARNING warning info
+2019-08-17 12:05:43,154 logging_test.py[line:10] ERROR ´íÎó info 
+2019-08-17 12:05:43,206 logging_test.py[line:11] CRITICAL critical info
+2019-08-17 14:42:06,831 kyb_logger.py[line:22]INFOstart app...
+2019-08-17 14:43:15,909 kyb_logger.py[line:26]INFOcheck cancelBtn
+2019-08-17 14:43:17,309 kyb_logger.py[line:36]INFOcheck skipBtn
+2019-08-17 15:18:41,900 kyb_logconf.py[line:31] INFO check_pdateBtn
+2019-08-17 15:18:43,029 kyb_logconf.py[line:42] INFO check_skipBtn
+2019-08-17 15:18:43,326 kyb_logconf.py[line:46] INFO skipBtn element is not found!
+2019-08-17 15:24:17,197 kyb_logconf.py[line:31] INFO check_pdateBtn
+2019-08-17 15:24:18,610 kyb_logconf.py[line:42] INFO check_skipBtn

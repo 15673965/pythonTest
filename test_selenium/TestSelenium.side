@@ -1,0 +1,133 @@
+{
+  "id": "f3bd0926-fb61-498f-8147-3689f1229977",
+  "version": "2.0",
+  "name": "TestSelenium",
+  "url": "https://www.baidu.com",
+  "tests": [{
+    "id": "dc7f888c-d73f-4476-8960-53bb18f55088",
+    "name": "test_taobao",
+    "commands": [{
+      "id": "87e2f9c0-d359-452b-b937-2f486fff7268",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2ff1c4e3-496d-4219-9198-835b542980dc",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x744",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0f776d13-995f-472a-80b3-bf41b2087202",
+      "comment": "",
+      "command": "type",
+      "target": "id=kw",
+      "targets": [
+        ["id=kw", "id"],
+        ["name=wd", "name"],
+        ["css=#kw", "css:finder"],
+        ["xpath=//input[@id='kw']", "xpath:attributes"],
+        ["xpath=//form[@id='form']/span/input", "xpath:idRelative"],
+        ["xpath=//span/input", "xpath:position"]
+      ],
+      "value": "淘宝官网"
+    }, {
+      "id": "514264c0-2728-4efb-86cb-203b54b88607",
+      "comment": "",
+      "command": "click",
+      "target": "id=su",
+      "targets": [
+        ["id=su", "id"],
+        ["css=#su", "css:finder"],
+        ["xpath=//input[@id='su']", "xpath:attributes"],
+        ["xpath=//form[@id='form']/span[2]/input", "xpath:idRelative"],
+        ["xpath=//span[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "bee4015c-1637-4ac2-b80a-17686a730a55",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='1']/h3/a/em",
+      "targets": [
+        ["xpath=//div[@id='1']/h3/a/em", "xpath:idRelative"],
+        ["xpath=//em", "xpath:position"],
+        ["xpath=//em[contains(.,'淘宝网')]", "xpath:innerText"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win1369",
+      "windowTimeout": 2000
+    }, {
+      "id": "ed82a0f9-4e86-461b-928e-de60a0762fc6",
+      "comment": "",
+      "command": "storeWindowHandle",
+      "target": "root",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e742a822-d9ae-4790-a69e-e11ba5e043a2",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win1369}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "608e21aa-069e-4632-9faa-6ba4204043cc",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=亲，请登录",
+      "targets": [
+        ["linkText=亲，请登录", "linkText"],
+        ["css=.site-nav-sign > .h", "css:finder"],
+        ["xpath=//a[contains(text(),'亲，请登录')]", "xpath:link"],
+        ["xpath=//li[@id='J_SiteNavLogin']/div/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://login.taobao.com/member/login.jhtml?spm=a21bo.2017.754894437.1.5af911d9GVUY2v&f=top&redirectURL=https%3A%2F%2Fwww.taobao.com%2F')]", "xpath:href"],
+        ["xpath=//a", "xpath:position"],
+        ["xpath=//a[contains(.,'亲，请登录')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "a006c701-30c8-45fc-9b08-3cbc35e6c807",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${root}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "512865b9-70c3-461d-a82b-9ae05d438af3",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a14c538b-e422-46e2-8c4a-e19933eb5cbc",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win1369}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3a735999-b78e-4d36-86b8-e9df556f6c94",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "aba83eb4-0abd-4d59-ac73-9d645d100b01",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["dc7f888c-d73f-4476-8960-53bb18f55088"]
+  }],
+  "urls": ["https://www.baidu.com/"],
+  "plugins": []
+}

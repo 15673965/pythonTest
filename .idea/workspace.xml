@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b18d964-6fa2-40ff-bc61-f234ce5bf5a7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="webdriverspace" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applium/yaml/desired_caps.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applium/page_object/desired_caps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applium/page_object/baseView.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applium/page_object/common_fun.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applium/page_object/loginView.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p22naf/main/run_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1720">
+              <folding>
+                <element signature="e#15#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day04/Common/HTMLTestRunner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day04/Lx/html_report.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="91" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data_config</find>
+      <find>OperetionJson</find>
+      <find>get_expcet_data_for_mysql</find>
+      <find>caps</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>GlobalVar</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/p22naf/util/operation_header.py" />
+        <option value="$PROJECT_DIR$/p22naf/util/common_util.py" />
+        <option value="$PROJECT_DIR$/p22naf/main/run_test.py" />
+        <option value="$PROJECT_DIR$/test_selenium/hello_android.py" />
+        <option value="$PROJECT_DIR$/applium/hello_android.py" />
+        <option value="$PROJECT_DIR$/applium/kyb_cancle_skip.py" />
+        <option value="$PROJECT_DIR$/applium/kyb_test.py" />
+        <option value="$PROJECT_DIR$/applium/kyb_cancle_skip_if.py" />
+        <option value="$PROJECT_DIR$/applium/kyb_cancle_skip_try.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/push_pull_file.py" />
+        <option value="$PROJECT_DIR$/day02/test10_implicitly.py" />
+        <option value="$PROJECT_DIR$/applium/setup_teardown/demo.py" />
+        <option value="$PROJECT_DIR$/pytest/pytest.ini" />
+        <option value="$PROJECT_DIR$/pytest/base/test_login.py" />
+        <option value="$PROJECT_DIR$/pytest.ini" />
+        <option value="$PROJECT_DIR$/pytest/scripts/test_setting.py" />
+        <option value="$PROJECT_DIR$/pytest/scripts/test_login.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/by_h5.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/kyb_test.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/kyb_by_classname.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/by_xpath.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/kyb_login.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/by_list.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/by_Uiautomator.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/kyb_register.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/element_wait.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/capability.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/get_toast.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/screenshot.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/demo.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/drag.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/draw.py" />
+        <option value="$PROJECT_DIR$/applium/find_element/multi_action.py" />
+        <option value="$PROJECT_DIR$/applium/yalm/familyInfo.yaml" />
+        <option value="$PROJECT_DIR$/applium/yalm/yaml_load.py" />
+        <option value="$PROJECT_DIR$/applium/yalm/yaml_dump.py" />
+        <option value="$PROJECT_DIR$/applium/yalm/desired_caps.yaml" />
+        <option value="$PROJECT_DIR$/applium/yalm/capability_yaml.py" />
+        <option value="$PROJECT_DIR$/applium/log/logging_test.py" />
+        <option value="$PROJECT_DIR$/applium/yaml/desired_caps.yaml" />
+        <option value="$PROJECT_DIR$/applium/page_object/baseView.py" />
+        <option value="$PROJECT_DIR$/applium/page_object/myunit.py" />
+        <option value="$PROJECT_DIR$/applium/page_object/test_login.py" />
+        <option value="$PROJECT_DIR$/applium/page_object/common_fun.py" />
+        <option value="$PROJECT_DIR$/applium/page_object/desired_caps.py" />
+        <option value="$PROJECT_DIR$/applium/log/kyb_logconf.py" />
+        <option value="$PROJECT_DIR$/applium/log/kyb_logger.py" />
+        <option value="$PROJECT_DIR$/applium/page_object/loginView.py" />
+        <option value="$PROJECT_DIR$/applium/log/log.conf" />
+        <option value="$PROJECT_DIR$/applium/unittest/myunit.py" />
+        <option value="$PROJECT_DIR$/applium/unittest/test_login.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-22" />
+    <option name="y" value="7" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webdriverspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webdriverspace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webdriverspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webdriverspace" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webdriverspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webdriverspace" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webdriverspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webdriverspace" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="Lx" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/applium/log/log.conf" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\BaiduYunDownload\webdriverspace\applium\unittest" />
+      <recent name="F:\BaiduYunDownload\webdriverspace\applium" />
+      <recent name="F:\BaiduYunDownload\webdriverspace" />
+      <recent name="F:\BaiduYunDownload\webdriverspace\applium\find_element" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\BaiduYunDownload\webdriverspace\applium\find_element" />
+      <recent name="F:\BaiduYunDownload\webdriverspace\pytest\base" />
+      <recent name="F:\BaiduYunDownload\webdriverspace\applium" />
+      <recent name="F:\BaiduYunDownload\webdriverspace" />
+      <recent name="F:\BaiduYunDownload\webdriverspace\day04\Common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.kyb_login">
+    <configuration name="common_fun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="webdriverspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applium/page_object" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applium/page_object/common_fun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kyb_login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="webdriverspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applium/find_element" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applium/find_element/kyb_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loginView" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="webdriverspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applium/page_object" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/applium/page_object/loginView.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_login.TestLogin" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="webdriverspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applium/unittest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="webdriverspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/applium/unittest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/applium/unittest/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.kyb_login" />
+        <item itemvalue="Python tests.Unittests for test_login.TestLogin" />
+        <item itemvalue="Python.loginView" />
+        <item itemvalue="Python tests.Unittests in test_login.py" />
+        <item itemvalue="Python.common_fun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b18d964-6fa2-40ff-bc61-f234ce5bf5a7" name="Default Changelist" comment="" />
+      <created>1560732569702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560732569702</updated>
+      <workItem from="1560732573063" duration="13054000" />
+      <workItem from="1560816747663" duration="5097000" />
+      <workItem from="1560840901704" duration="842000" />
+      <workItem from="1560902933426" duration="2385000" />
+      <workItem from="1560989316807" duration="24587000" />
+      <workItem from="1561077592722" duration="9216000" />
+      <workItem from="1561163617451" duration="6248000" />
+      <workItem from="1561251484826" duration="1208000" />
+      <workItem from="1561425523879" duration="602000" />
+      <workItem from="1561971013965" duration="1333000" />
+      <workItem from="1562123245588" duration="1277000" />
+      <workItem from="1562124581420" duration="134000" />
+      <workItem from="1562836010296" duration="8420000" />
+      <workItem from="1562850311774" duration="938000" />
+      <workItem from="1562890752824" duration="15189000" />
+      <workItem from="1562925913267" duration="125000" />
+      <workItem from="1562926765397" duration="2491000" />
+      <workItem from="1562934075235" duration="229000" />
+      <workItem from="1562934338498" duration="1051000" />
+      <workItem from="1562935465505" duration="5417000" />
+      <workItem from="1562941609668" duration="332000" />
+      <workItem from="1562941984901" duration="709000" />
+      <workItem from="1562945371769" duration="2355000" />
+      <workItem from="1562981676131" duration="15233000" />
+      <workItem from="1563020922824" duration="2799000" />
+      <workItem from="1563070543942" duration="596000" />
+      <workItem from="1563154311179" duration="1800000" />
+      <workItem from="1563240976966" duration="7138000" />
+      <workItem from="1563263957415" duration="179000" />
+      <workItem from="1563264177610" duration="9641000" />
+      <workItem from="1563320791394" duration="1274000" />
+      <workItem from="1563409196246" duration="14601000" />
+      <workItem from="1563499937461" duration="13186000" />
+      <workItem from="1563535138242" duration="1059000" />
+      <workItem from="1563536230495" duration="4321000" />
+      <workItem from="1563617375185" duration="4457000" />
+      <workItem from="1563668832258" duration="6890000" />
+      <workItem from="1563754907548" duration="586000" />
+      <workItem from="1563767415020" duration="1196000" />
+      <workItem from="1563841281870" duration="2407000" />
+      <workItem from="1563927503484" duration="597000" />
+      <workItem from="1564017446968" duration="1440000" />
+      <workItem from="1564060787877" duration="1462000" />
+      <workItem from="1564100979810" duration="4170000" />
+      <workItem from="1564111679888" duration="12373000" />
+      <workItem from="1564188507999" duration="1184000" />
+      <workItem from="1564273544187" duration="595000" />
+      <workItem from="1564625153783" duration="2699000" />
+      <workItem from="1564630769448" duration="7615000" />
+      <workItem from="1564710249349" duration="16046000" />
+      <workItem from="1564795349069" duration="2372000" />
+      <workItem from="1564879362459" duration="4006000" />
+      <workItem from="1564898611961" duration="285000" />
+      <workItem from="1564898933776" duration="74000" />
+      <workItem from="1564899051170" duration="148000" />
+      <workItem from="1564899229122" duration="2000000" />
+      <workItem from="1564907033895" duration="6168000" />
+      <workItem from="1564970742913" duration="591000" />
+      <workItem from="1564971644905" duration="6197000" />
+      <workItem from="1565054075740" duration="608000" />
+      <workItem from="1565060528618" duration="9349000" />
+      <workItem from="1565141056862" duration="1156000" />
+      <workItem from="1565275539391" duration="3541000" />
+      <workItem from="1565312639356" duration="4693000" />
+      <workItem from="1565359404900" duration="933000" />
+      <workItem from="1565396833147" duration="590000" />
+      <workItem from="1565434388817" duration="806000" />
+      <workItem from="1565485091638" duration="8161000" />
+      <workItem from="1565531374332" duration="4028000" />
+      <workItem from="1565568720836" duration="22218000" />
+      <workItem from="1565654692015" duration="30737000" />
+      <workItem from="1565917968469" duration="9593000" />
+      <workItem from="1566005269307" duration="18944000" />
+      <workItem from="1566174669505" duration="15961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_v2ex_api_test_case_V2exApiTestCase_test_node_api - 2019.07.16 at 16h 29m 10s.xml">
+      <configuration name="Unittests for v2ex_api_test_case.V2exApiTestCase.test_node_api" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_v2ex_api_test_case_V2exApiTestCase_test_node_api - 2019.07.16 at 16h 29m 58s.xml">
+      <configuration name="Unittests for v2ex_api_test_case.V2exApiTestCase.test_node_api" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_v2ex_api_test_case_py - 2019.07.16 at 16h 30m 30s.xml">
+      <configuration name="Unittests in v2ex_api_test_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_v2ex_api_test_case_V2exApiTestCase_test_node_api - 2019.07.16 at 16h 39m 55s.xml">
+      <configuration name="Unittests for v2ex_api_test_case.V2exApiTestCase.test_node_api" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_v2ex_api_test_case_V2exApiTestCase_test_node_api - 2019.07.16 at 16h 41m 00s.xml">
+      <configuration name="Unittests for v2ex_api_test_case.V2exApiTestCase.test_node_api" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_v2ex_api_test_case_V2exApiTestCase_test_node_api - 2019.07.16 at 16h 41m 24s.xml">
+      <configuration name="Unittests for v2ex_api_test_case.V2exApiTestCase.test_node_api" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_TestLogin - 2019.08.17 at 18h 07m 12s.xml">
+      <configuration name="Unittests for test_login.TestLogin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2019.08.17 at 18h 40m 40s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2019.08.17 at 18h 53m 15s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_TestLogin - 2019.08.17 at 19h 03m 14s.xml">
+      <configuration name="Unittests for test_login.TestLogin" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="391942000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.52718675" visible="true" weight="0.2624811" />
+      <window_info id="Structure" order="1" sideWeight="0.47281325" side_tool="true" weight="0.14145234" />
+      <window_info id="Favorites" order="2" sideWeight="0.47281325" side_tool="true" weight="0.14145234" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3764321" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42880523" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36824876" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.19148937" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.30769232" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
+      <window_info anchor="right" id="Database" order="4" sideWeight="0.50351286" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="SciView" order="5" sideWeight="0.4964871" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.52718675" visible="true" weight="0.2624811" />
+      <window_info id="Structure" order="1" sideWeight="0.47281325" side_tool="true" weight="0.14145234" />
+      <window_info id="Favorites" order="2" sideWeight="0.47281325" side_tool="true" weight="0.14145234" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3764321" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42880523" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36824876" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.19148937" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.30769232" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
+      <window_info anchor="right" id="Database" order="4" sideWeight="0.50351286" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="SciView" order="5" sideWeight="0.4964871" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day01/test02_name.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day01/test02_name.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day01/test02_name.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day01/test09_css_id.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/p22naf/data/get_data.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/webdriverspace$capability.coverage" NAME="capability Coverage Results" MODIFIED="1565685784275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/find_element" />
+    <SUITE FILE_PATH="coverage/webdriverspace$kyb_logger.coverage" NAME="kyb_logger Coverage Results" MODIFIED="1566024126112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/log" />
+    <SUITE FILE_PATH="coverage/webdriverspace$common_fun.coverage" NAME="common_fun Coverage Results" MODIFIED="1566034217273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/page_object" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1560991937339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test08_xpath.coverage" NAME="test08_xpath Coverage Results" MODIFIED="1560827745280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/webdriverspace$push_pull_file.coverage" NAME="push_pull_file Coverage Results" MODIFIED="1564736131737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/find_element" />
+    <SUITE FILE_PATH="coverage/webdriverspace$kyb_test.coverage" NAME="kyb_test Coverage Results" MODIFIED="1565658261434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/find_element" />
+    <SUITE FILE_PATH="coverage/webdriverspace$Unittests_for_test05_assert_Test05_test001.coverage" NAME="Unittests for test05_assert.Test05.test001 Coverage Results" MODIFIED="1562986661604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test_setting.coverage" NAME="test_setting Coverage Results" MODIFIED="1565064228728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest/scripts" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test_login.coverage" NAME="test_login Coverage Results" MODIFIED="1565076845713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest/scripts" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test08_xpath2.coverage" NAME="test08_xpath2 Coverage Results" MODIFIED="1560828004769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/webdriverspace$Unittests_for_iweb_shop_login_TestLoginOut_test_iweb_login.coverage" NAME="Unittests for iweb_shop_login.TestLoginOut.test_iweb_login Coverage Results" MODIFIED="1562982284835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+    <SUITE FILE_PATH="coverage/webdriverspace$hello_android.coverage" NAME="hello_android Coverage Results" MODIFIED="1564102321574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_selenium" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test06_partial_link_text.coverage" NAME="test06_partial_link_text Coverage Results" MODIFIED="1560761315987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test03_testcase_make.coverage" NAME="test03_testcase_make Coverage Results" MODIFIED="1562892409167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+    <SUITE FILE_PATH="coverage/webdriverspace$kyb_cancle_skip_try.coverage" NAME="kyb_cancle_skip_try Coverage Results" MODIFIED="1564714283656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test04_tage_name.coverage" NAME="test04_tage_name Coverage Results" MODIFIED="1560759597616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test09_css_id.coverage" NAME="test09_css_id Coverage Results" MODIFIED="1560905448551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test05_cookie.coverage" NAME="test05_cookie Coverage Results" MODIFIED="1561167810888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test_selenium.coverage" NAME="test_selenium Coverage Results" MODIFIED="1562945508622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/webdriverspace$Unittests_for_test_login_TestLogin.coverage" NAME="Unittests for test_login.TestLogin Coverage Results" MODIFIED="1566039573441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/unittest" />
+    <SUITE FILE_PATH="coverage/webdriverspace$multi_action.coverage" NAME="multi_action Coverage Results" MODIFIED="1565942158480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/find_element" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test07_doubc.coverage" NAME="test07_doubc Coverage Results" MODIFIED="1561014096701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test10_wait.coverage" NAME="test10_wait Coverage Results" MODIFIED="1561029706467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/webdriverspace$kyb_cancle_skip_if.coverage" NAME="kyb_cancle_skip_if Coverage Results" MODIFIED="1564713057738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium" />
+    <SUITE FILE_PATH="coverage/webdriverspace$by_h5.coverage" NAME="by_h5 Coverage Results" MODIFIED="1565655109222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/find_element" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test05_window.coverage" NAME="test05_window Coverage Results" MODIFIED="1561104590422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/webdriverspace$html_report.coverage" NAME="html_report Coverage Results" MODIFIED="1563020412049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+    <SUITE FILE_PATH="coverage/webdriverspace$get_toast.coverage" NAME="get_toast Coverage Results" MODIFIED="1565923640109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/find_element" />
+    <SUITE FILE_PATH="coverage/webdriverspace$discover.coverage" NAME="discover Coverage Results" MODIFIED="1562983827330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+    <SUITE FILE_PATH="coverage/webdriverspace$loginView.coverage" NAME="loginView Coverage Results" MODIFIED="1566039202430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/page_object" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test06_content.coverage" NAME="test06_content Coverage Results" MODIFIED="1562900503310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/webdriverspace$errorhandler__1_.coverage" NAME="errorhandler (1) Coverage Results" MODIFIED="1565621601072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote" />
+    <SUITE FILE_PATH="coverage/webdriverspace$kyb_by_classname.coverage" NAME="kyb_by_classname Coverage Results" MODIFIED="1565661681479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/find_element" />
+    <SUITE FILE_PATH="coverage/webdriverspace$Unittests_for_test01_testcase_Test01.coverage" NAME="Unittests for test01_testcase.Test01 Coverage Results" MODIFIED="1562838458806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+    <SUITE FILE_PATH="coverage/webdriverspace$Unittests_for_iweb_shop_login_assert02_TestLoginOut_test_iweb_login.coverage" NAME="Unittests for iweb_shop_login_assert02.TestLoginOut.test_iweb_login Coverage Results" MODIFIED="1563004680669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+    <SUITE FILE_PATH="coverage/webdriverspace$Unittests_for_v2ex_api_test_case_V2exApiTestCase_test_node_api.coverage" NAME="Unittests for v2ex_api_test_case.V2exApiTestCase.test_node_api Coverage Results" MODIFIED="1563266480499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+    <SUITE FILE_PATH="coverage/webdriverspace$capability_yaml.coverage" NAME="capability_yaml Coverage Results" MODIFIED="1566013750287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/yalm" />
+    <SUITE FILE_PATH="coverage/webdriverspace$dict_parse.coverage" NAME="dict_parse Coverage Results" MODIFIED="1563531636644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
+    <SUITE FILE_PATH="coverage/webdriverspace$hello_android__1_.coverage" NAME="hello_android (1) Coverage Results" MODIFIED="1564153163364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test03_scroll.coverage" NAME="test03_scroll Coverage Results" MODIFIED="1561089218604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/webdriverspace$Unittests_in_v2ex_api_test_case_py.coverage" NAME="Unittests in v2ex_api_test_case.py Coverage Results" MODIFIED="1563265828040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test04_brow.coverage" NAME="test04_brow Coverage Results" MODIFIED="1560996289048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test10_implicitly.coverage" NAME="test10_implicitly Coverage Results" MODIFIED="1561032585874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/webdriverspace$kyb_logconf.coverage" NAME="kyb_logconf Coverage Results" MODIFIED="1566026596456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/log" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test03_class_name.coverage" NAME="test03_class_name Coverage Results" MODIFIED="1560759056784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/webdriverspace$element_wait.coverage" NAME="element_wait Coverage Results" MODIFIED="1565922552829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/find_element" />
+    <SUITE FILE_PATH="coverage/webdriverspace$dumps_loads.coverage" NAME="dumps_loads Coverage Results" MODIFIED="1563535957732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
+    <SUITE FILE_PATH="coverage/webdriverspace$Unittests_in_iweb_shop_login_assert_py.coverage" NAME="Unittests in iweb_shop_login_assert.py Coverage Results" MODIFIED="1563021001921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+    <SUITE FILE_PATH="coverage/webdriverspace$kyb_cancle_skip.coverage" NAME="kyb_cancle_skip Coverage Results" MODIFIED="1564648039387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test04_it.coverage" NAME="test04_it Coverage Results" MODIFIED="1561002156174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/webdriverspace$by_xpath.coverage" NAME="by_xpath Coverage Results" MODIFIED="1565698480506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/find_element" />
+    <SUITE FILE_PATH="coverage/webdriverspace$yaml_load.coverage" NAME="yaml_load Coverage Results" MODIFIED="1566009841096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/yalm" />
+    <SUITE FILE_PATH="coverage/webdriverspace$errorhandler.coverage" NAME="errorhandler Coverage Results" MODIFIED="1565535589347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lib/site-packages/appium/webdriver" />
+    <SUITE FILE_PATH="coverage/webdriverspace$Unittests_in_test04_fixture_py.coverage" NAME="Unittests in test04_fixture.py Coverage Results" MODIFIED="1562894203510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test03_brow.coverage" NAME="test03_brow Coverage Results" MODIFIED="1560995243125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test05_link_text.coverage" NAME="test05_link_text Coverage Results" MODIFIED="1560761002201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/webdriverspace$Unittests_in_test05_assert_py.coverage" NAME="Unittests in test05_assert.py Coverage Results" MODIFIED="1562986738284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+    <SUITE FILE_PATH="coverage/webdriverspace$kyb_register.coverage" NAME="kyb_register Coverage Results" MODIFIED="1565699639305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/find_element" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test001.coverage" NAME="test001 Coverage Results" MODIFIED="1560992505264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/webdriverspace$dict_dumps_loads.coverage" NAME="dict_dumps_loads Coverage Results" MODIFIED="1563536285541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
+    <SUITE FILE_PATH="coverage/webdriverspace$yaml_dump.coverage" NAME="yaml_dump Coverage Results" MODIFIED="1566010150283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/yalm" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test10_keys.coverage" NAME="test10_keys Coverage Results" MODIFIED="1561019203914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/webdriverspace$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1566039184011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/unittest" />
+    <SUITE FILE_PATH="coverage/webdriverspace$kyb_login.coverage" NAME="kyb_login Coverage Results" MODIFIED="1566210968092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/find_element" />
+    <SUITE FILE_PATH="coverage/webdriverspace$Unittests_for_iweb_shop_login_TestLoginOut.coverage" NAME="Unittests for iweb_shop_login.TestLoginOut Coverage Results" MODIFIED="1562945538594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test04_frame.coverage" NAME="test04_frame Coverage Results" MODIFIED="1561099139903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/webdriverspace$Unittests_for_iweb_shop_login_assert_TestLoginOut_test_iweb_login.coverage" NAME="Unittests for iweb_shop_login_assert.TestLoginOut.test_iweb_login Coverage Results" MODIFIED="1563020631129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+    <SUITE FILE_PATH="coverage/webdriverspace$desired_caps.coverage" NAME="desired_caps Coverage Results" MODIFIED="1566033698158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/page_object" />
+    <SUITE FILE_PATH="coverage/webdriverspace$v2ex_api_test_case.coverage" NAME="v2ex_api_test_case Coverage Results" MODIFIED="1563246448212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/性能、自动化、接口02/接口测试和接口自动化/postman资料/newman" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test_name.coverage" NAME="test_name Coverage Results" MODIFIED="1560758175431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test07_find_elements_by_xxx.coverage" NAME="test07_find_elements_by_xxx Coverage Results" MODIFIED="1560818635852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test01_id.coverage" NAME="test01_id Coverage Results" MODIFIED="1562923092521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test02_brow.coverage" NAME="test02_brow Coverage Results" MODIFIED="1560994487011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test02_testsuite.coverage" NAME="test02_testsuite Coverage Results" MODIFIED="1562850604863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+    <SUITE FILE_PATH="coverage/webdriverspace$logging_test.coverage" NAME="logging_test Coverage Results" MODIFIED="1566014742937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/applium/log" />
+    <SUITE FILE_PATH="coverage/webdriverspace$test09_move.coverage" NAME="test09_move Coverage Results" MODIFIED="1561019023043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/webdriverspace$.coverage" NAME="淘宝官网 Coverage Results" MODIFIED="1562988454870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/北京校区6月软件测试全套教程/阶段5 Web自动化测试/5-1 WEB自动化测试/代码" />
+    <SUITE FILE_PATH="coverage/webdriverspace$Unittests_in_iweb_shop_login_py.coverage" NAME="Unittests in iweb_shop_login.py Coverage Results" MODIFIED="1562937570852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/Lx" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/appium/webdriver/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/kyb_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/common/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8176">
+          <caret line="361" column="8" selection-start-line="361" selection-start-column="8" selection-end-line="361" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/kyb_by_classname.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/by_xpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/retry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="401" lean-forward="true" selection-start-line="401" selection-end-line="401" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/by_Uiautomator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="7" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/by_h5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/element_wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#310#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/screenshot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/get_toast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/demo3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="892">
+          <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/scroll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/long_press.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/press.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/draw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-377">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/multi_action.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/drag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/yaml/familyInfo.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/log/kyb_logconf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/log/logging_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="19" selection-start-line="3" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/log/runlog.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/page_object/runlog.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/log/log.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/urllib3/poolmanager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="325" selection-start-line="325" selection-end-line="325" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/yaml/capability_yaml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="50" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/yaml/yaml_dump.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/yaml/yaml_load.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/log/kyb_logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-863">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/swipe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/capability.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="69" />
+          <folding>
+            <element signature="e#1#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/kyb_register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-785">
+          <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/yaml/desired_caps.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/unittest/myunit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/page_object/desired_caps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/page_object/baseView.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/page_object/common_fun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p22naf/report/htmlreport.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/unittest/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="15" />
+          <folding>
+            <element signature="e#16#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/find_element/kyb_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p22naf/util/send_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p22naf/base/test_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p22naf/base/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2427">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applium/page_object/loginView.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p22naf/main/run_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1720">
+          <folding>
+            <element signature="e#15#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/Common/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/Lx/html_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

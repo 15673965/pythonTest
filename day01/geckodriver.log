@@ -1,0 +1,94 @@
+1562926844035	geckodriver	INFO	geckodriver 0.19.1
+1562926844075	geckodriver	INFO	Listening on 127.0.0.1:1295
+1562931029576	geckodriver	INFO	geckodriver 0.19.1
+1562931029611	geckodriver	INFO	Listening on 127.0.0.1:2061
+1562933717705	geckodriver	INFO	geckodriver 0.19.1
+1562933717738	geckodriver	INFO	Listening on 127.0.0.1:2352
+1562934095159	geckodriver	INFO	geckodriver 0.19.1
+1562934095192	geckodriver	INFO	Listening on 127.0.0.1:2444
+1562934367201	geckodriver	INFO	Listening on 127.0.0.1:2478
+1562934370296	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.PCQPAPEdUmug
+1562934370458	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\plugins\firefox.exe with args []
+1562934370560	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2487
+1562934379658	Marionette	INFO	Listening on port 2487
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js, line 52: Error: Syntax error, unrecognized expression: .c-container /deep/ .c-container
+1562934928124	geckodriver	INFO	Listening on 127.0.0.1:2679
+1562934931277	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.dyFnqAfTrBWu
+1562934931340	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1562934931443	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2687
+[Child 9528] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9528] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14124] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562935550650	geckodriver	INFO	Listening on 127.0.0.1:3093
+1562935553786	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.5hNombB1qzRV
+1562935553864	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1562935553973	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3101
+[GPU 6464] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9084] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6464] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562937264409	geckodriver	INFO	Listening on 127.0.0.1:4194
+1562937267761	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.hxZ5ggjKp6Mr
+1562937267778	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1562937267853	geckodriver::marionette	INFO	Connecting to Marionette on localhost:4205
+1562937270288	Marionette	INFO	Listening on port 4205
+1562937273953	Marionette	INFO	startBrowser 63a785e3-4705-4415-a591-8d9af499ca38
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 12000] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 12000] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 12000] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1562939187882	geckodriver	INFO	Listening on 127.0.0.1:5555
+1562939190959	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.LFYyndVQYJdR
+1562939190972	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1562939191048	geckodriver::marionette	INFO	Connecting to Marionette on localhost:5563
+1562939192703	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1562939197867	Marionette	INFO	Listening on port 5563
+1562939198570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1562939245802	Marionette	INFO	Ceased listening
+0.0.1:5607
+1562939240698	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.e1qVepogm27M
+1562939240771	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1562939240828	geckodriver::marionette	INFO	Connecting to Marionette on localhost:5615
+1562939242064	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1562939247508	Marionette	INFO	Listening on port 5615
+1562939248182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1562939350322	Marionette	INFO	Ceased listening
+0.0.1:5677
+1562939350329	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.FIU2Kun7gHTd
+1562939350369	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1562939350419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:5685
+1562939351919	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1562939356486	Marionette	INFO	Listening on port 5685
+1562939357040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1562939445449	Marionette	INFO	Ceased listening
+1562941641454	geckodriver	INFO	geckodriver 0.21.0
+1562941641490	geckodriver	INFO	Listening on 127.0.0.1:6667
+1562941644499	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.576mV0aA0zmQ"
+1562941653299	Marionette	INFO	Listening on port 6675
+1562945510082	geckodriver	INFO	geckodriver 0.21.0
+1562945510136	geckodriver	INFO	Listening on 127.0.0.1:8649
+1562945513019	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.dMKQxrhOa4Ie"
+Unable to read VR Path Registry from C:\Users\admin\AppData\Local\openvr\openvrpaths.vrpath
+1562945519778	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\admin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\admin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\admin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\admin\AppData\Local\openvr\openvrpaths.vrpath
+1562945525238	Marionette	INFO	Listening on port 8658
+1562945525428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 14844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Parent 7804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
